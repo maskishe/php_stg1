@@ -85,7 +85,6 @@
 </form>
 </div>
 
-<!-- The four columns -->
 <div class="row">
 
 <?php 
