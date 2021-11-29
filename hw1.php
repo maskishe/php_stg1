@@ -1,7 +1,7 @@
 <?php
 //  Author: Mikhail Kurzin (GitHub: maskishe, Email: maskishe@gmail.com, Tgram: maskishe)
 //  Date:   06 Nov 2021
-//  test
+//  test1111
 //  Lesson 1. Task #2. Выполнить примеры из методички и разобраться, как это работает.
 echo '<h1>Lesson 1. Task #2</h1>';
 $a = 4;
